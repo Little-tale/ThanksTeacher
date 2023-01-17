@@ -16,8 +16,6 @@ public final class AllmemberList
 	
 	public ArrayList<String> allMemberListT()
 	{
-		
-		
 		allMembers.addAll(ms.methMembers);
 		allMembers.addAll(es.englishMembers);
 	

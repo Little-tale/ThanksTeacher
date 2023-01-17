@@ -12,7 +12,6 @@ public class MathMemberList
 	
 	public ArrayList<String> methMemberAdd(String name)
 	{
-		
 		methMembers.add(name);
 		return methMembers;
 	}

@@ -104,9 +104,7 @@ public class Mainprogram {
 			System.out.println("잘못된 입력값입니다. ");
 		}
 		
-		
-		
-		
+				
 		System.out.println("저희 학원에 오신것을 환영합니다 !!!");
 		aml.allMemberListT();
 		
