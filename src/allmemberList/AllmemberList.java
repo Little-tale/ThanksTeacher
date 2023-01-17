@@ -24,7 +24,6 @@ public final class AllmemberList
 		System.out.println("테스트"+allMembers);
 		
 		return allMembers;
-	}////
-	//
+	}
 	
 }
