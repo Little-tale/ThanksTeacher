@@ -20,7 +20,7 @@ public final class AllmemberList
 		
 		allMembers.addAll(ms.methMembers);
 		allMembers.addAll(es.englishMembers);
-		
+	
 		System.out.println("테스트"+allMembers);
 		
 		return allMembers;
