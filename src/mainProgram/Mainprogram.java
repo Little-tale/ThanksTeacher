@@ -77,7 +77,7 @@ public class Mainprogram {
 		System.out.println("강의를 선택합니다....\n수학은 1번 영어는 2번을 입려하세요");
 		userCount = sc.nextInt();
 		userCount = sc.nextInt();
-		
+		//
 		if(userCount==1)
 		{
 			System.out.println("본인이름 입력바랍니다.");
