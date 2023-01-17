@@ -93,7 +93,7 @@ public class Mainprogram {
 		{
 			System.out.println("본인이름 입력바랍니다.");
 			userName = sc.nextLine();
-			userName = sc.nextLine();
+			//userName = sc.nextLine();
 			
 			newEnglishlist.add(userName);
 			ems.englishMembers.add(userName);
